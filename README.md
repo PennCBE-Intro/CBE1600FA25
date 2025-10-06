@@ -1,5 +1,5 @@
 # Penn Chemical and Biomolecular Engineering
-# Introduction to Chemical Engineering - FALL 2025
+# Introduction to Chemical Engineering - Fall 2025
 
 
 This Github repository hosts various files (mostly Jupyter Notebooks) used in CBE 1600.
